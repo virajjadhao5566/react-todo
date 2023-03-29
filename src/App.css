@@ -45,3 +45,9 @@ input{
 button{
   padding: .3rem;
 }
+
+li{
+  text-decoration: none;
+  list-style-type: none;
+  font-size: 1rem;
+}
